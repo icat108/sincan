@@ -1,0 +1,157 @@
+{
+    "main": {
+        "name" : "Erlina",
+        "description": "I m Freshgraduate",
+        "image":"sincan.jpeg",
+        "github":"",
+        "project":"",
+        "bio": "Good morning, all. Let me introduce myself. My name is Erlina. I was born in Central Jakarta on 16 november 2000, but now I live in Kampung Rawa, Central Jakarta. I was the first child Music is one of my hobbies. I have played the guitar since 4th grade and now I have created 4 songs. My dream is to make a band and perform on the same stage with Coldplay.That’s all from me. Thank you!",
+        "contactmessage":"Hello, here I am",
+        "email": "ichacnakval@gmail.com",
+        "phone": " 085697165024 / 085774708211",
+        "address":{
+            "street":"Jl Kampung Rawa Sawah",
+            "city":"Jakarta",
+            "state":"Central Jakarta",
+            "zip": "10550"
+        },
+        "website": "https://ricad-portfolio-vert.vercel.app/",
+        "resumedownload":"",
+        "social":[
+          
+          {
+            "name":"facebook",
+            "url":"https://www.facebook.com/erlina",
+            "className":"fa fa-facebook"
+          },
+          
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/erlinaaaa16_/",
+            "className":"fa fa-instagram"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Indonesia",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "June 2021",
+                "description" : "I am joining gemastik competition"
+            }
+        ],
+        "work": [
+            {
+                "company" : " Pt.alfaria albani trijaya",
+                "title" : "Cashier",
+                "years": "5 maret 2021- 4 maret 2022"
+            }, 
+            {
+                "company": "GRO - pt.tiga bersaudara",
+                "title": "-",
+                "years": "10 maret 2022- 31 januari 2023"
+            }
+        ],
+        "skills": [
+            
+            {
+                "name": "Python",
+                "level": "50%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "VueJS",
+                "level": "88%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "45%"
+            },
+            {
+                "name": "PHP",
+                "level": "97%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
+}
